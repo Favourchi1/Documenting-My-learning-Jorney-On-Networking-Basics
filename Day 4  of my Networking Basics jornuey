@@ -1,0 +1,62 @@
+# Day 4 of My Networking Basics Journey: Building a Home Network
+
+Today’s lesson focused on how to build a **functional and secure home network**, and I’m excited to share what I learned!
+
+---
+
+##  Understanding the Components of a Home Network
+
+I explored the essential devices that make up a typical home network, including:
+
+- **Router** – The central hub that connects all other devices to the internet  
+- **Desktop computer**  
+- **Smart TV**  
+- **Printers**  
+- **Smartphones and telephones**  
+- **Security cameras**  
+
+Each of these devices relies on **either a wired or wireless connection** to communicate and access online services.
+
+---
+
+##  Router Ports: Ethernet vs. Internet
+
+I studied the physical structure of the router and discovered it typically features:
+
+- **Ethernet Ports**: Used to connect internal devices like PCs or printers via cables  
+- **Internet Port (WAN Port)**: Connects the router to the external internet source, usually provided by your ISP  
+
+---
+
+##  Wired Network Technologies
+
+Next, I looked into the types of cables commonly used in wired networks:
+
+- **Category 5e (Cat5e) Cable** – Common for Ethernet connections  
+- **Coaxial Cable** – Often used for cable internet  
+- **Fiber-Optic Cable** – Offers the fastest speed and reliability using light signals  
+
+---
+
+##  Wireless Networking Standards
+
+I learned about the **Wi-Fi Alliance**, the body responsible for testing and certifying wireless LAN devices across different brands.
+
+I also became familiar with **IEEE 802.11**, the wireless networking standard that governs how devices communicate over Wi-Fi.
+
+---
+
+##  Wireless Settings
+
+Finally, I explored the various wireless settings found on routers and networked devices, including:
+
+- **SSID** (network name)  
+- **Security protocols** (WPA2, WPA3)  
+- **Channel settings**  
+- **Frequency bands** (2.4 GHz vs. 5 GHz)  
+
+---
+
+Each of these components plays a **critical role** in how we stay connected at home. The deeper I go, the more I appreciate the structure behind everyday tech.
+
+Looking forward to learning more as I continue my journey into **networking and cybersecurity**! 
