@@ -1,0 +1,65 @@
+#  Communication Principles & Network Protocols
+
+Today, I explored the **principles of communication** – from human interactions to computer networking.
+
+---
+
+##  Human Communication Protocols
+
+We started by identifying the basic rules that govern human communication:
+
+- **Method of communication**  
+- **Preferred language**  
+- **Acknowledgement or confirmation requirement**
+
+---
+
+##  Network Protocols
+
+I learned that **network protocols** are rules that define how data is transmitted across a network.
+
+###  Key Characteristics of Network Protocols:
+- `Message format`
+- `Message size`
+- `Timing`
+- `Encoding`
+- `Encapsulation`
+- `Message patterns`
+
+---
+
+##  Network & Internet Standards
+
+Network standards ensure that all devices on a network follow the same protocols uniformly.
+
+###  Major Standards Organizations:
+- `IEEE`
+- `IANA`
+- `ICANN`
+- `IETF`
+- `ITU`
+- `TIA`
+
+---
+
+##  Common Network Protocols
+
+Here are some widely used protocols:
+
+- `Ethernet`
+- `Internet Protocol (IP)`
+- `Transmission Control Protocol (TCP)`
+- `Hypertext Transfer Protocol (HTTP)`
+
+---
+
+##  Network Models
+
+### 1. **Protocol Model (e.g. TCP/IP)**
+
+#### TCP/IP Model Layers:
+```text
+- Application Layer
+- Transport Layer
+- Internet Layer
+- Network Access Layer
