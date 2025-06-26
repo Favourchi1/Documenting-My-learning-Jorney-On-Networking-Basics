@@ -1,0 +1,49 @@
+#  Ethernet Network Connectivity - Summary
+
+Today, I explored different types of connectivity used in **Ethernet networks** and how to choose the right network media.
+
+---
+
+##  Common Ethernet Media Types
+
+### 1. Unshielded Twisted Pair (UTP)
+- A set of color-coded wires arranged in pairs.
+- Commonly used for Ethernet connections.
+- Cost-effective and easy to install.
+
+### 2. Coaxial Cable
+- Uses **BNC** or **F-type screw connectors**.
+- Ideal for high-frequency transmission.
+- Common in satellite communication systems.
+
+### 3. Fiber Optic Cable
+- Made of **glass or plastic**.
+- Used for high-speed data transmission within buildings.
+- Transmits data as pulses of light.
+
+---
+
+##  Media Types by Transmission Method
+
+| Media Type                   | Description                                 | Example               |
+|-----------------------------|---------------------------------------------|------------------------|
+| Metal wires (copper)        | Data is encoded as electrical impulses      | UTP cables             |
+| Glass/plastic fibers        | Data is encoded as light pulses             | Fiber optic cables     |
+| Wireless transmission       | Data encoded via frequency modulation       | Wi-Fi, Bluetooth       |
+
+---
+
+##  Criteria for Choosing Network Media
+
+1. **Maximum transmission distance** – How far can the signal travel?
+2. **Installation environment** – Indoors, outdoors, or industrial?
+3. **Speed and bandwidth needs** – How much data and how fast?
+4. **Cost** – Budget for media and installation
+
+---
+
+> This was a great session for building my foundation in network connectivity and understanding how media type affects performance.
+
+---
+
+###  #Networking #Ethernet #FiberOptics #NetworkCables #TechJourney #LearningInPublic #Cybersecurity
