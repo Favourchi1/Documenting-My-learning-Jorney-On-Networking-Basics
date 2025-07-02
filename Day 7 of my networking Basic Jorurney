@@ -1,0 +1,46 @@
+#  Day 7 of My Networking Basics Journey
+
+Today, I explored how **Ethernet** works in local networks and learned about how data is transmitted and received between devices.
+
+---
+
+##  Ethernet and Local Area Networks (LANs)
+
+- Ethernet is commonly used in **Local Area Networks (LANs)** such as homes, offices, and schools.
+- Each device that connects to an Ethernet network uses a **Network Interface Card (NIC)**.
+- Every NIC has a **unique MAC address** that is permanently embedded, helping to identify the device on the network.
+
+---
+
+##  Ethernet Frame Structure
+
+I took a deep dive into the components of an **Ethernet frame** — the structured format that data takes when sent across a network:
+
+1. **Preamble** – Synchronizes communication between devices.
+2. **Start Frame Delimiter (SFD)** – Marks the start of the frame.
+3. **Destination MAC Address** – Identifies the recipient device.
+4. **Source MAC Address** – Identifies the sender device.
+5. **Length/Type Field** – Indicates the type of data or protocol.
+6. **Encapsulated Data** – The actual data being transmitted.
+7. **Frame Check Sequence (FCS)** – Helps detect errors during transmission.
+
+---
+
+##  Encapsulation vs. Decapsulation
+
+- **Encapsulation** is the process of **placing data inside a specific message format** so it can be transmitted over the network — like placing a letter into an envelope.
+- **Decapsulation** is the reverse — the **receiver removes the envelope to read the message** inside.
+
+This helped me better understand how devices prepare and interpret data as it moves through a network.
+
+---
+
+##  Reflection
+
+This session brought more clarity into how data travels and how Ethernet organizes that journey. Understanding the concept of encapsulation and how data is structured at the frame level was a major takeaway for me.
+
+I'm excited to continue building my knowledge in **networking and cybersecurity** one step at a time!
+
+---
+
+ Stay tuned for more updates as I continue my learning journey.
