@@ -1,0 +1,45 @@
+#  Day 8 of My Networking Basics Journey: Understanding Internet Protocol (IP)
+
+Today I explored one of the core elements of networking — **Internet Protocol (IP)**. Here's a breakdown of what I learned:
+
+---
+
+##  Devices That Use Network Interface Cards (NICs)
+
+These are examples of end-user devices that connect to a network using NICs:
+
+-  Workstations
+-  Servers
+-  Network Printers
+-  IP Phones
+
+Each device on a network must have a **unique IP address** to communicate effectively.
+
+---
+
+##  What is IPv4?
+
+- **IPv4 addresses are 32 bits long**
+- They are divided into **four 8-bit sections** called **octets**
+- Example format: `192.168.0.1`
+
+Each IP address has **two parts**:
+1. **Network** – identifies the network the device is on
+2. **Host** – identifies the specific device on that network
+
+---
+
+##  Subnet Mask
+
+- The **subnet mask** is used to differentiate the **network portion** from the **host portion** of an IP address.
+- This allows routing devices to accurately determine where data should be sent within a network.
+
+---
+
+##  Reflection
+
+Today’s session gave me a deeper understanding of how devices are identified on a network and how they communicate through IP addressing. The idea of subnetting and IP division is key to managing large and small networks alike.
+
+---
+
+ Excited to keep learning and building my networking and cybersecurity knowledge — one concept at a time!
