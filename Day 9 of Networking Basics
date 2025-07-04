@@ -1,0 +1,46 @@
+## Day 9: IPv4 and Network Segmentation – Understanding How Data Travels
+
+Today’s focus was on **IPv4 addressing** and how data is transmitted across networks using different communication types.
+
+### Unicast Transmission
+- One-to-one communication: A device sends a message directly to another device.
+- IPv4 unicast host address range: `1.0.0.0 to 223.255.255.255`
+
+### Broadcast Transmission
+- One-to-all communication: A device sends a message to all devices on the same network.
+- **Broadcast domain** includes all hosts on the same network segment.
+
+### Multicast Transmission
+- One-to-selected group communication.
+- IPv4 multicast address range: `224.0.0.0 to 239.255.255.255`
+
+---
+
+### Special IPv4 Address Blocks
+- **Private IP addresses**: Used within internal networks.
+- **Loopback addresses**: For testing purposes, e.g., `127.0.0.1`
+- **Link-local addresses**: Used for local communication.
+
+---
+
+### IP Address Management
+- IPv4 and IPv6 addresses are managed by **IANA (Internet Assigned Numbers Authority)**.
+- IANA allocates blocks of addresses to **RIRs (Regional Internet Registries)**.
+
+---
+
+### Subnetting
+- **Subnetting**: Dividing a large network into smaller broadcast domains.
+- Helps reduce:
+  -  Misconfigurations
+  -  Hardware/Software issues
+  -  Malicious intent
+
+---
+
+Every day, I’m learning how vital structured addressing is to secure and efficient communication on the internet.
+
+---
+
+###  Tags
+`#Networking` `#IPv4` `#Subnetting` `#CybersecurityJourney` `#100DaysOfNetworking` `#NetworkEngineerInProgress` `#CiscoPacketTracer` `#LinkedInLearning`
