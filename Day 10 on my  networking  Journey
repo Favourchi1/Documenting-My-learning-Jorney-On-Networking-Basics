@@ -1,0 +1,55 @@
+#  Day 10 of My Networking Basics Journey: IPv6 Addressing Formats & Rules
+
+Today’s session focused on **IPv6**, the successor to IPv4, and how it helps solve the IP address shortage caused by the rapid growth of internet-connected devices.
+
+---
+
+##  What is IPv6?
+
+- IPv6 uses a **128-bit address space**
+- It can provide approximately **340 undecillion** unique IP addresses
+- This massive space supports the future of the **Internet of Things (IoT)** and beyond
+
+---
+
+##  IPv6 Transition Techniques
+
+To ensure a smooth shift from IPv4 to IPv6, network administrators use three primary methods:
+
+1. **Dual Stack** – Runs both IPv4 and IPv6 on the same devices and networks
+2. **Tunneling** – Encapsulates IPv6 traffic within IPv4 to pass through IPv4 networks
+3. **Translation** – Converts IPv6 packets into IPv4 (and vice versa) for compatibility
+
+---
+
+##  IPv6 Address Format
+
+- IPv6 addresses are written in **hexadecimal** (base-16)
+- Hexadecimal includes: `0–9` and `A–F`
+- A full IPv6 address example:  
+  `2001:0db8:0000:0042:0000:8a2e:0370:7334`
+
+---
+
+##  IPv6 Address Shortening Rules
+
+### Rule 1: Omit Leading Zeros
+- Leading zeros in each block (hextet) can be left out  
+  - Example: `0042` becomes `42`
+
+### Rule 2: Use Double Colon (::)
+- One set of consecutive zero blocks can be replaced with `::`
+- Example:  
+  `2001:0db8:0000:0000:0000:0000:0000:0001` → `2001:db8::1`
+
+>  Note: The double colon can only appear once in an address.
+
+---
+
+##  Reflection
+
+IPv6 may look intimidating at first, but breaking it down into logical parts makes it much easier to understand. The format, transition techniques, and simplification rules show how IPv6 is built for the future.
+
+---
+
+ Looking forward to continuing my learning journey in **networking and cybersecurity**!
