@@ -1,0 +1,36 @@
+# Day 11 – Dynamic Addressing with DHCP & Static IPv4
+
+## Topic Covered
+- Static IP Configuration  
+- Dynamic Host Configuration Protocol (DHCP)  
+- DHCP Lease Process  
+
+## What I Learned
+Today, I explored how devices are assigned IP addresses within a network, either manually through static IPs or automatically using DHCP.
+
+### Static IP Addressing
+Static addressing requires manual configuration of:
+- IP Address  
+- Subnet Mask  
+- Default Gateway  
+
+This method is ideal for devices that require a permanent IP address such as:
+- Servers  
+- Network Printers  
+- Routers  
+
+### Dynamic Host Configuration Protocol (DHCP)
+DHCP automates the assignment of IP addresses, making it perfect for dynamic environments with many devices.
+
+### DHCP Lease Process
+1. **DHCP Discover** – Client broadcasts a request to find a DHCP server.
+2. **DHCP Offer** – Server offers an available IP address to the client.
+3. **DHCP Request** – Client accepts the IP address offered.
+4. **DHCP Acknowledgment** – Server confirms and assigns the IP.
+
+## Key Takeaway
+While static IPs are best for fixed, essential devices, DHCP is a powerful protocol that simplifies network management, reduces configuration errors, and scales well in large environments.
+
+---
+
+ _Next up: Network Address Translation (NAT) – making private IPs talk to the internet._  
