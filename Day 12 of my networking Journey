@@ -1,0 +1,18 @@
+## Module 12: Gateway to Other Networks
+
+Today’s module gave me insight into how traffic moves beyond local networks and reaches the broader internet.
+
+###  What I Learned:
+
+- **Gateway**: A gateway allows data to leave a local network and access other networks. It's like the exit point or door for network traffic.
+- **Default Gateway Address**: This is the IP address of the router or device that sends traffic outside the local subnet.
+- **Network Address Translation (NAT)**: NAT enables devices using private IP addresses to communicate over the internet by translating those addresses to public ones.
+- **IPv4 Address Categories**:
+  - **Private IP Network** – Used within internal networks (e.g., homes, offices).
+  - **Public IP Network** – Routable on the internet and globally unique.
+
+###  Takeaway:
+Gateways and NAT are vital in connecting local networks to the outside world. Understanding them deepens my appreciation for the complexity of network communication.
+
+---
+#NetworkingBasics #Gateway #NAT #IPv4 #CybersecurityJourney #TechLearning
