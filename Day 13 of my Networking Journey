@@ -1,0 +1,33 @@
+#  Day 13 – MAC and IP Addresses
+
+##  Topics Covered
+- MAC vs IP Address
+- Address Resolution Protocol (ARP)
+- Ethernet Broadcast
+- IPv6 Neighbor Discovery
+
+##  What I Learned
+Today I explored how devices are identified and located on a network.
+
+- Every device has:
+  - **MAC Address (Physical/Hardware Address):** Unique to the device, built into the NIC.
+  - **IP Address (Logical Address):** Assigned by the network, used for routing across networks.
+
+- When a device wants to communicate but only knows the **IP address**, it uses:
+  - **ARP (Address Resolution Protocol)** to find the **MAC address** on IPv4.
+  - **Neighbor Discovery Protocol (NDP)** for IPv6.
+
+###  ARP Process
+1. Device sends a broadcast asking “Who has this IP?”
+2. The device with that IP responds with its MAC address.
+3. Communication can now proceed on the Ethernet layer.
+
+- **Ethernet Broadcast** occurs when the MAC address is set to `FF:FF:FF:FF:FF:FF`, sending to all devices on the LAN.
+
+##  Key Takeaway
+MAC addresses identify devices at the hardware level, while IPs work at the logical level. ARP bridges the gap between them in IPv4, and NDP does the same in IPv6.
+
+---
+
+ Next up: Learning how data is segmented and encapsulated for transmission!  
+
