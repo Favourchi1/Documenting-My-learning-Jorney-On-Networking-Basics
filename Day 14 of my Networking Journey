@@ -1,0 +1,21 @@
+## Module 14: Routing Between Networks
+
+###  What I Learned
+
+Routing is the process of determining the best path for data to travel across networks. It ensures that packets find the most efficient route from the source to the destination.
+
+A **router** is a Layer 3 networking device responsible for forwarding data between different IP networks. It's essential in enabling communication beyond local subnets.
+
+###  Key Concepts
+
+- **Routing Table**: A database in the router that holds information about network paths.
+- **Static Routing**: Routes are manually configured by a network administrator.
+- **Dynamic Routing**: Routes are automatically updated based on information shared between routers using routing protocols (like RIP, OSPF, or EIGRP).
+
+###  Insight
+
+Routing is like giving data a GPS—it ensures that every packet takes the most efficient and logical path to reach its destination. Whether dynamic or static, routing decisions greatly impact network efficiency and security.
+
+---
+
+#Networking #Routing #Cisco #CybersecurityJourney #Module15 #DynamicRouting #StaticRouting
