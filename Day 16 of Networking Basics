@@ -1,0 +1,45 @@
+##  Day 18 – Application Layer Services: Where the Network Gets Personal
+
+Today’s lesson pulled back the curtain on the **Application Layer**, the topmost layer in the OSI model — and honestly, it made everything I’ve been learning so far click into place.  
+Why? Because this is where real **user interaction** happens!
+
+---
+
+###  What I Learned
+
+**What is a Server?**  
+A server isn’t just a big machine in a data center. It’s **any host running software** that provides data or services to other devices.  
+Think of it like a digital librarian — always ready to serve you what you need.
+
+---
+
+###  Common Types of Server Software
+
+-  **Email Servers**  
+-  **Web Servers**  
+-  **File Servers**
+
+---
+
+###  Protocols: The Real MVPs
+
+| Protocol | Full Form | Function |
+|---------|------------|----------|
+| **DNS** | Domain Name System | Converts domain names (like `linkedin.com`) into IP addresses. Internet’s address book. |
+| **SSH** | Secure Shell | Enables secure remote access to devices. |
+| **SMTP** | Simple Mail Transfer Protocol | Sends emails. |
+| **POP** | Post Office Protocol | Retrieves emails from the server. |
+| **IMAP** | Internet Message Access Protocol | Manages emails while keeping them on the server. |
+| **DHCP** | Dynamic Host Configuration Protocol | Automatically assigns IP addresses to devices. |
+| **HTTP** | HyperText Transfer Protocol | The foundation of web browsing. |
+| **FTP** | File Transfer Protocol | Transfers files between systems. |
+
+---
+
+###  Aha Moment
+
+> Every time we send an email, browse a website, or download a file, we’re interacting with **Application Layer protocols** — and we often don’t even realize it.
+
+The Application Layer makes user experience **seamless**, but it’s powered by an incredibly **complex and structured foundation**.
+
+---
